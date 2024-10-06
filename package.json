@@ -1,0 +1,19 @@
+{
+  "name": "Scrim-s0pk1nv7e4",
+  "description": "https://v2.scrimba.com/s0pk1nv7e4",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "openai": "4.67.1",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}

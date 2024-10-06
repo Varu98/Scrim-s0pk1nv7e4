@@ -1,0 +1,13 @@
+.appbody {
+  display: flex;
+  flex-direction: column;
+}
+
+.chat {
+  display: flex;
+  flex-direction: column;
+}
+
+.headerbg{
+    width:100%;
+}
